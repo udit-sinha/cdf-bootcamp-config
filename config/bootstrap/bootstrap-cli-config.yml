@@ -97,10 +97,9 @@ bootstrap:
 
           # Node names will normally follow src:001:srcname or uc:001:usecasename naming convention
           ns-nodes:
-              - node-name: src:001:sap
-                description: Data from SAP  # HINT
-              - node-name: src:002:opcua
-                description: Data from OPCUA  # HINT
+              - node-name: uc:001:oee
+                description: Use Case OEE  # HINT
+
 
 # HINT: Add another namespace below
 
