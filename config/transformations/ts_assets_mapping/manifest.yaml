@@ -3,7 +3,7 @@
 externalId: tr-ts_assets_mapping
 name: ts_assets_mapping
 query:
-    file: transformation2.sql
+    file: transformation.sql
 destination:
     type: timeseries
 ignoreNullFields: true
